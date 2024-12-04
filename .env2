@@ -1,0 +1,10 @@
+DATABASE_URL=
+SESSION_ID=
+REMOVEBG_KEY=
+PREFIX=
+MODE=make bot public or private
+autoRead=
+statusview=true
+antidelete=make autidelete true or false
+antilink=make anti link true,false for groups
+autotype=make autotype true or false
